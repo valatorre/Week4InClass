@@ -1,0 +1,6 @@
+C:\Users\admir\source\repos\Week4Inclass\Week4InClass.Shared\bin\Debug\Week4InClass.Shared.dll
+C:\Users\admir\source\repos\Week4Inclass\Week4InClass.Shared\bin\Debug\Week4InClass.Shared.pdb
+C:\Users\admir\source\repos\Week4Inclass\Week4InClass.Shared\obj\Debug\Week4InClass.Shared.csprojAssemblyReference.cache
+C:\Users\admir\source\repos\Week4Inclass\Week4InClass.Shared\obj\Debug\Week4InClass.Shared.csproj.CoreCompileInputs.cache
+C:\Users\admir\source\repos\Week4Inclass\Week4InClass.Shared\obj\Debug\Week4InClass.Shared.dll
+C:\Users\admir\source\repos\Week4Inclass\Week4InClass.Shared\obj\Debug\Week4InClass.Shared.pdb

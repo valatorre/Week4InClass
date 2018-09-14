@@ -1,0 +1,25 @@
+﻿@model Week4Inclass.Models.SemesterModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<div>
+    <div>
+        @Html.DropDownListFor(m => m.Courses, new SelectList(Model.Courses, "CourseNumber", "CourseName"), "Select Course")
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Year)
+        @Html.DisplayFor(m => m.Year)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.SemesterName)
+        @Html.TextBoxFor(m => m.SemesterName)
+    </div>
+</div>
+</body>
+</html>
